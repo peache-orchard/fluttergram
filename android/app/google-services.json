@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "721646667484-3uc2dcj2pfbdnmdjheheesif1t0p1eoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.peache.fluttergram",
+            "certificate_hash": "9eb806fbaba8e4ff6f6d9710c9842949c1aea6c1"
+          }
+        },
+        {
           "client_id": "721646667484-a3rdve2g4j1u5s7emruhjm1lgl3sjko8.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
